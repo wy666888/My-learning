@@ -14,4 +14,8 @@
 
 
 #4 学习jQuery的免费资源：电子书、视频、教程和博客 
-  [学习jQuery的免费资源：电子书、视频、教程和博客](http://blog.jobbole.com/53544/?utm_source=blog.jobbole.com&utm_medium=relatedPosts "地址来源")  
+  [学习jQuery的免费资源：电子书、视频、教程和博客](http://blog.jobbole.com/53544/?utm_source=blog.jobbole.com&utm_medium=relatedPosts "地址来源")   
+
+
+#5 编写更好的jQuery代码的建议
+  [编写更好的jQuery代码的建议](http://blog.jobbole.com/52770/ "地址来源") 
