@@ -1,6 +1,6 @@
 ## Vim配置说明
 
-####  使用的Ubuntu配置说明(Ubuntu环境下，配置文件为：/etc/vim/vimrc)  
+####  配置说明(Ubuntu环境下，配置文件为：/etc/vim/vimrc)  
 set ai                          " 自动缩进，新行与前面的行保持—致的自动空格  
 set aw                        " 自动写，转入shell或使用：n编辑其他文件时，当前的缓冲区被写入  
 set flash                     " 在出错处闪烁但不呜叫(缺省)  
