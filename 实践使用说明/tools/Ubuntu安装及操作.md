@@ -18,8 +18,8 @@
 
  5  调整ubuntu命令行终端字体颜色和大小    
     [地址](http://blog.csdn.net/qq_30115765/article/details/52623935  "地址来源")    
-    
+
 
  6  ubuntu中 google-chrome 启动报错 nss_util.cc(627)] NSS_VersionCheck("3.26") failed. NSS >= 3.26 is required的解决    
-    [地址](http://blog.csdn.net/qq_22551385/article/details/78172178  "地址来源")    
-    [地址](https://stackoverflow.com/questions/46126902/fix-nss-version-not-match-when-update-chrome-in-ubuntu  "stackoverflow地址")                    
+    [CSDN地址](http://blog.csdn.net/qq_22551385/article/details/78172178  "地址来源")    
+    [Stackoverflow地址](https://stackoverflow.com/questions/46126902/fix-nss-version-not-match-when-update-chrome-in-ubuntu  "stackoverflow地址")                    
