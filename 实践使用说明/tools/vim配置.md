@@ -1,6 +1,6 @@
-#Vim配置说明
+## Vim配置说明
 
-1  使用的Ubuntu配置说明  
+####  使用的Ubuntu配置说明(Ubuntu环境下，配置文件为：/etc/vim/vimrc)  
 set ai                          " 自动缩进，新行与前面的行保持—致的自动空格  
 set aw                        " 自动写，转入shell或使用：n编辑其他文件时，当前的缓冲区被写入  
 set flash                     " 在出错处闪烁但不呜叫(缺省)  
@@ -9,10 +9,7 @@ set nu
 set number                " 屏幕左边显示行号  
 set showmatch          " 显示括号配对，当键入“]”“)”时，高亮度显示匹配的括号  
 set showmode           " 处于文本输入方式时加亮按钮条中的模式指示器  
-set showcmd             " 在状态栏显示目前所执行的指令，未完成的指令片段亦会显示出来  
-set warn/nowarn        " 对文本进行了新的修改后，离开shell时系统给出显示(缺省)  
-set ws/nows               " 在搜索时如到达文件尾则绕回文件头继续搜索  
-set wrap/nowrap        " 长行显示自动折行  
+set showcmd             " 在状态栏显示目前所执行的指令，未完成的指令片段亦会显示出来   
 colorscheme evening " 设定背景为夜间模式  
 filetype plugin on        " 自动识别文件类型，自动匹配对应的, “文件类型Plugin.vim”文件，使用缩进定义文件  
 set autoindent            " 设置自动缩进：即每行的缩进值与上一行相等；使用 noautoindent 取消设置  
