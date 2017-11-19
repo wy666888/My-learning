@@ -1,5 +1,5 @@
- sublime_text_3 安装
-http://www.cnblogs.com/yi220284/p/6367098.html
+# [sublime_text_3 安装](http://www.cnblogs.com/yi220284/p/6367098.html)
+  
 
 安装Package Control 
 通过 ctrl+` 快捷键或者 View > Show Console菜单打开控制台，复制粘贴回车如下代码即可
