@@ -100,11 +100,11 @@
 
    # 2017-10-25
 
-   表格中显示的内容不是中文而是纯数字或英文时，默认是不换行的（中文默认换行），此时即使table的宽度设为100%时td也不会自动换行。所以需要设置一下，让表格内容自动换行。设置如下：  
-   <table style="word-wrap:break-word; word-break:break-all;">  </table>  
-   [参考地址1](http://blog.csdn.net/who_is_xiaoming/article/details/52807212 "地址来源")    
-   [参考地址2](http://blog.csdn.net/XIAOZHUXMEN/article/details/51068305 "地址来源")  
-
+   表格中显示的内容不是中文而是纯数字或英文时，默认是不换行的（中文默认换行），此时即使table的宽度设为100%时td也不会自动换行。所以需要设置一下，让表格内容自动换行。设置如下：    
+   <table style="word-wrap:break-word; word-break:break-all;">  </table>      
+   [参考地址1](http://blog.csdn.net/who_is_xiaoming/article/details/52807212 "地址来源")     
+   [参考地址2](http://blog.csdn.net/XIAOZHUXMEN/article/details/51068305  "地址来源")          
+   
 
    # 2017-11-06
    
