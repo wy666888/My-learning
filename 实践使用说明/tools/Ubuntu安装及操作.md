@@ -8,7 +8,7 @@
     [地址](http://blog.csdn.net/pan_tian/article/details/22619687  "地址来源")   
 
 
- 3  Ubuntu 16.04下安装64位谷歌Chrome浏览器     
+ 3  Ubuntu 16.04下安装64位谷歌Chrome浏览器       
     [地址](http://www.cnblogs.com/jasonhaven/p/7580385.html  "地址来源")    
 
 
@@ -22,4 +22,8 @@
 
  6  ubuntu中 google-chrome 启动报错 nss_util.cc(627)] NSS_VersionCheck("3.26") failed. NSS >= 3.26 is required的解决    
     [CSDN地址](http://blog.csdn.net/qq_22551385/article/details/78172178  "地址来源")    
-    [Stackoverflow地址](https://stackoverflow.com/questions/46126902/fix-nss-version-not-match-when-update-chrome-in-ubuntu  "stackoverflow地址")                    
+    [Stackoverflow地址](https://stackoverflow.com/questions/46126902/fix-nss-version-not-match-when-update-chrome-in-ubuntu  "stackoverflow地址")     
+
+
+ 7  Ubuntu下搜狗输入法安装教程  
+ 	[地址](https://jingyan.baidu.com/article/08b6a591cb06f114a8092209.html "地址来源")                  
