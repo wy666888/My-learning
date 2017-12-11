@@ -132,3 +132,36 @@
     # 2017-11-25
 
     在写多个条件判断的搜索中，尤其是涉及到多张表多个字段的时候，要注意把多个字段融合在一起进行查询！这样既能减少代码的书写量，又便于调试和查找代码的问题！！！尤其 要注意的是，不要分开来写！
+
+
+    # 2017-12-11
+
+     /**
+     * @param $cbids 后缀名一致的CBID数组
+     * @param string $db_suffi 数据库的后缀名
+     * @param string $tab_suffix 表的后缀名
+     * @param string $field 列
+     * @return bool|mixed
+     */
+    public function getCBIDs($cbids,  $db_suffix = '01',  $tab_suffix = '01', $field = '*')
+    {
+        try {
+
+            $sql =  'SELECT ' . $field . ' FROM book_novels' . $tab_suffix. ' WHERE ';
+            if(!empty($cbids)){
+                $sql .= 'CBID IN(' . implode(',', $cbids).')';
+            }else{
+                return false;
+            }
+
+            $db = C('CC_DB'.'_'.$db_suffix);
+
+            $info = $this->db(19, $db, true)->query($sql);
+
+            return !empty($info) ? $info : false;
+
+        } catch (Exception $e) {
+
+            return false;
+        }
+    }
