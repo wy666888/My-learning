@@ -129,21 +129,23 @@
    在html页面中，数字和字母默认是不换行的！需要设置td或者div的style="word-break:break-all;"这样才能换行。至于有人说，style设置为word-wrap: break-word;能够换行，但亲自尝试过后，发现不能！所以很多事情还是要去实践，别人说的不一定对或者说不一定适合你的场景，因此要根据实际情况来使用！  
 
 
-    # 2017-11-25
+   # 2017-11-25
 
-    在写多个条件判断的搜索中，尤其是涉及到多张表多个字段的时候，要注意把多个字段融合在一起进行查询！这样既能减少代码的书写量，又便于调试和查找代码的问题！！！尤其 要注意的是，不要分开来写！
+   在写多个条件判断的搜索中，尤其是涉及到多张表多个字段的时候，要注意把多个字段融合在一起进行查询！这样既能减少代码的书写量，又便于调试和查找代码的问题！！！尤其 要注意的是，不要分开来写！
 
 
-    # 2017-12-11
+   # 2017-12-11
+
 
      /**
-     * @param $cbids 后缀名一致的CBID数组
+     基于THinkphp的分库分表批处理查询
+     * @param $idxs 后缀名一致的IDX数组
      * @param string $db_suffi 数据库的后缀名
      * @param string $tab_suffix 表的后缀名
      * @param string $field 列
      * @return bool|mixed
      */
-    public function getCBIDs($cbids,  $db_suffix = '01',  $tab_suffix = '01', $field = '*')
+    public function getCBIDs($idxs,  $db_suffix = '01',  $tab_suffix = '01', $field = '*')
     {
         try {
 
@@ -165,3 +167,5 @@
             return false;
         }
     }
+    
+    
