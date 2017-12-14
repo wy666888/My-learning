@@ -39,11 +39,11 @@ htmlpretty
 
 
 参考来源：
-http://www.cnblogs.com/etiao/p/5423141.html
-http://www.jianshu.com/p/87f87b0e3df7
-http://blog.csdn.net/gui8304451/article/details/51105198
-https://stackoverflow.com/questions/25105139/sublime-text-2-there-are-no-packages-available-for-installation
-http://www.thinkphp.cn/extend/257.html
+http://www.cnblogs.com/etiao/p/5423141.html  
+http://www.jianshu.com/p/87f87b0e3df7  
+http://blog.csdn.net/gui8304451/article/details/51105198  
+https://stackoverflow.com/questions/25105139/sublime-text-2-there-are-no-packages-available-for-installation  
+http://www.thinkphp.cn/extend/257.html  
 
 
 
