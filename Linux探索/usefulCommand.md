@@ -1,0 +1,1 @@
+ nginx -t  查看nginx运行状态
