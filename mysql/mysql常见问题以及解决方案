@@ -1,0 +1,22 @@
+#目前主要学习mysql
+
+1 mysql 降序升序
+
+    MySQL中，升序为asc，降序为desc。例如：
+
+	升序：select   *  from  表名 order by  表中的字段 asc(mysql中默认是升序排列，可不写)
+
+	降序：select   *  from  表名 order by  表中的字段 desc
+
+	若要进行同时一个升序，一个降序，则如下：
+
+	order by 升序字段 asc，降序字段 desc。
+
+参考博客：http://blog.csdn.net/whq19890827/article/details/49787415
+
+ 2  1406问题的解决
+博客地址：http://blog.csdn.net/whq19890827/article/details/48295853
+
+ 3 Ubuntu下 MySQL的“ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)”
+博客地址：http://blog.csdn.net/whq19890827/article/details/72833714
+
