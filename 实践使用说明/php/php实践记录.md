@@ -19,7 +19,7 @@
 
 [地址](http://blog.csdn.net/nuli888/article/details/62236134 "地址来源")   
 
- ### 5  php面试题 
+ ### 5  php面试题   
 
 [地址](https://segmentfault.com/a/1190000012971148 "地址来源")   
  	 
