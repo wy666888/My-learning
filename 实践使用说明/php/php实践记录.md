@@ -17,7 +17,11 @@
 
  ### 4  php实现短链接系统  
 
-[地址](http://blog.csdn.net/nuli888/article/details/62236134 "地址来源") 
+[地址](http://blog.csdn.net/nuli888/article/details/62236134 "地址来源")   
+
+ ### 5  php面试题 
+
+[地址](https://segmentfault.com/a/1190000012971148 "地址来源")   
  	 
  	
 
