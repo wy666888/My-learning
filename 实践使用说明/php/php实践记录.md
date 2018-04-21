@@ -21,7 +21,8 @@
 
  ### 5  php面试题   
 
-[地址](https://segmentfault.com/a/1190000012971148 "地址来源")   
+[地址1](https://segmentfault.com/a/1190000012971148 "地址来源")   
+[地址2](https://segmentfault.com/a/1190000013696265 "地址来源") 
  	 
  	
 
