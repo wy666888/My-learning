@@ -30,5 +30,10 @@
 
 [地址](https://www.cnblogs.com/chengshan/p/7246242.html "地址来源")    
  	 
- 	
+ 
+ 
+ ### 7 Thrift for PHP
+
+[地址](https://www.cnblogs.com/ddcoder/p/7647186.html "地址来源")    
+ 	 
 
