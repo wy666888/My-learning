@@ -33,3 +33,7 @@
 ####  git reset --hard 版本号
 
     将版本回滚到某一历史版本(版本号就是对应历史版本的记录号，可以通过git log来获取所有的提交版本号)
+    
+### git stash 
+    
+    [具体使用](https://www.cnblogs.com/tocy/p/git-stash-reference.html)
